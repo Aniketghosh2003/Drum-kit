@@ -1,2 +1,2 @@
 # Drum-kit
-I am learning Web development from Dr. Angela Yu and in that course I make this small drum-kit website.
+This repository captures my journey in web development under Dr. Angela Yu's expert guidance. As part of the course, I've created a vibrant Drum Kit website using HTML, CSS, and JavaScript. Explore the interactive drum sounds by clicking or using keyboard keys. This project reflects my evolving skills and understanding of web development concepts. Grateful for Dr. Angela Yu's teachings, this repository is a testament to the hands-on experience gained. Join me in the rhythm of coding!
